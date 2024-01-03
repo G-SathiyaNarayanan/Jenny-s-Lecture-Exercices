@@ -1,4 +1,4 @@
-Pizza Order:
+'''Pizza Order:
 Condions: 
 Small Pizza = 100
 Medium Pizza = 200
@@ -6,7 +6,7 @@ Lerge Pizza = 300
 Pepperoni for small Pizza = 30
 Pepperoni for medium or Large Pizze = 50
 Extra cheese for any Pizza = 20
-----------------------------------------------------------
+'''
 
 pizza = input("Which Size of Pizza want S/M/L: ")
 print()
