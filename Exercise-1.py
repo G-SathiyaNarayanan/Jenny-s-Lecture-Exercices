@@ -1,4 +1,4 @@
-#To calculate the number of days a person has lived until they reach 90 years
+#to calculate the number of days a person has lived until they reach 90 years
 
 age=int(input("Enter Your Age: "))
 years= 90- age 
