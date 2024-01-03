@@ -1,4 +1,10 @@
 #Checking the risk of fat level using BMI, height and weight
+'''Condition:
+bmi<18: Underweight
+bmi<25: Normal Weight
+bmi<30: Over Weight
+bmi<35: Obese Weight
+  else: Clinically Obese Weight '''
 
 height= float(input("Enter the Height: "))
 weight= float(input("Enter the Weight: "))
