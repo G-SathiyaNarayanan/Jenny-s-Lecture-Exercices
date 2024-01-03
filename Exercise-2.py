@@ -1,3 +1,5 @@
+#Checking the risk of fat level using BMI, height and weight
+
 height= float(input("Enter the Height: "))
 weight= float(input("Enter the Weight: "))
 bmi= round(weight/(height ** 2))
