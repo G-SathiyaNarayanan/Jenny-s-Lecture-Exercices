@@ -1,6 +1,7 @@
+'''
 LOVE CALCULATOR:
 TRUELOVE: Check how many truelove letters in Name of he and she
-eg: He has 5 and She has 2 output should be 52
+eg: He has 5 and She has 2 output should be 52 '''
 
 name1=input("Enter his name: ")
 name2=input("Enter her name: ")
