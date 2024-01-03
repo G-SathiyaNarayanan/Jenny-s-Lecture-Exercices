@@ -1,5 +1,3 @@
-#calculating the Person how many days he live until 90 Years
-
 age=int(input("Enter Your Age: "))
 years= 90- age 
 months=years*12
